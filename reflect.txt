@@ -1,0 +1,12 @@
+//Rujal Tuladahar
+//senecaId: 154594188
+//senecaEmail: rtuladhar@myseneca.ca
+
+In this oop244 course I have learned a lot about the concept of object-oriented programming. Before in IPC 144 I only knew about procedural programming while using the functions but now coming to the end of the semester I have learned a lot about the concept of classes polymorphism abstraction constructor and destructor dynamic memory allocation inheritance using C++. 
+What I understand about C++ generally it is a powerful language which allows you to have full control of what you are doing in comparison to other languages where you cannot manage your memory the way you can do in c++ language.
+
+The most difficult part for me to understand was the concept of dynamic memory allocation where you store the memory in an address and later you delete that memory address so that there is no extra memory allocated an that way your program runs effectively without using excess amount of memory used making your code really efficient.
+The last two milestone 4 and 5 I have implemented the concept of Inheritance in the code, inheritance is really great feature of c++ where you can easily access the code from the base class. But I had a really hard time doing the final milestone, I had an issue with operator overloading there was a conflict between the built in C++ operator and the custom operator that I built so I had an issue figuring out how to implement that in my setAverageWaitTime function.
+
+ Also I learned about different C++ library such as iostream, ftream, string, cstring, iomanip .In the last workshop we learn about templates which is another really important topic which makes the programming a lot easier . Everything about the course is great clear instructions in the milestone and workshop,
+ I would suggest that if we get longer time to do the Quiz and Test as the time is not enough to complete the question in the given time for a beginner programmer.
